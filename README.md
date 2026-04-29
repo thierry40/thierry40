@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thierry40
 - 👀 I’m interested in front end developer 
-- 🌱 I’m currently learning computer science 
+- 🌱 I have Bachelor's degree in computer science 
 - 💞️ I’m looking to collaborate on different developers
 - 📫 How to reach me on high level 
 - 😄 Pronouns: ...
